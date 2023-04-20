@@ -83,15 +83,6 @@ section {
     --bs-gutter-y: 1.5rem;
 }
 
-/* .cards>* {
-    flex-shrink: 0;
-    width: 100%;
-    max-width: 100%;
-    padding-right: calc(var(--bs-gutter-x) * .5);
-    padding-left: calc(var(--bs-gutter-x) * .5);
-    margin-top: var(--bs-gutter-y)
-} */
-
 .pricing .box {
     padding: 25px 20px;
     background: #fff;
@@ -112,7 +103,7 @@ i {
     padding-right: 5px;
 }
 
-.box1 h3 , .box3 h3{
+.box1 h3 , .box3 h3, .box2 h3{
     color: rgb(215, 111, 215);
 }
 
